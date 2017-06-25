@@ -1,0 +1,38 @@
+% summary of preamble
+
+%\LoadClass[12pt,a4paper,oneside,fleqn]{book}
+%\RequirePackage[T1]{fontenc} %  oriented to output, encoding of fonts to use for printing characters
+%\RequirePackage[utf8]{inputenc} % oriented to input accented characters directly from the keyboard
+%\RequirePackage[main=english]{babel} % to use English as main language;
+%\RequirePackage{enumerate} % to use enumerate environmente, when producing lists
+%\RequirePackage{cite} % for improved handling of numeric citations. 
+%\RequirePackage{graphicx}
+%%\RequirePackage{epsf,epsfig,psfig} % to insert '.eps', ' .ps' postscript figures
+%\RequirePackage{indentfirst} % to indent paragraphs
+%\RequirePackage{pagina} % UERJ formatting
+%\RequirePackage{theorem} % to use theorem environment
+%\RequirePackage{fancyhdr} % to get better control over headers
+%\RequirePackage{setspace} % to specify line spacing for sections and paragraphs through built-in commands 
+%\RequirePackage{boxedminipage} % to produce framed minipages
+%\RequirePackage{float} % to float figures and tables
+%\RequirePackage{makeidx} % to organize indexing
+%\RequirePackage{amsmath,amssymb,bm,amsbsy} % to use a plethora of mathematical AMS fonts
+%\RequirePackage{mathtools} % extension to package 'amsfonts' for bug correction and mathematical typesetting
+%\RequirePackage[hidelinks]{hyperref} % to enable typesetting of hyperlinks; 'hidelinks': remove color and border
+%\RequirePackage{subfig} % to use subfigure environment
+%\RequirePackage{algorithm2e} % to use algorithm environment
+%\RequirePackage{textcomp} % to use the Text Companion fonts
+%\RequirePackage[left]{lineno} % to have line numbering for referral and review purposes. Use option 'switch' to have odd/even numbering; 'pagewise' to have numbering per page.
+%\RequirePackage[compatible, english]{nomencl} % to produce nomenclature. Use 'portuguese' for Portuguese title.
+%\RequirePackage{booktabs, longtable} % to have nice tables 
+%\RequirePackage{blkarray} % to have labeled rows/columns in matrices
+%\RequirePackage{cleveref} % to configure 'clever' references
+%\RequirePackage{upgreek} % to have upright style for \greek fonts 
+%\RequirePackage{cjhebrew} % to insert hebrew characters
+%\RequirePackage{morefloats} % to force Latex to cope with larger number of floats
+%\RequirePackage{multirow} % to allow multirows in tables
+%\RequirePackage{footnote} % to add general footnotes
+%\RequirePackage[referable]{threeparttablex} % to create partite tables
+%\RequirePackage[bottom]{footmisc} % to force footnotes at the bottom of the page
+%\RequirePackage{lipsum} % dummy text
+%\RequirePackage{microtype} % text kerning (ajuste de espaço de caracter) for better visual. LOAD THIS PACKAGE LAST!

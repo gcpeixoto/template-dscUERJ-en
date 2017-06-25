@@ -1,0 +1,230 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{ALE}]\begingroup Arbitrary Lagrangian-Eulerian\nomeqref {0.0}
+		\nompageref{10}
+  \item [{CK}]\begingroup Chemical Kinetics\nomeqref {0.0}
+		\nompageref{10}
+  \item [{CVP}]\begingroup Counter-Rotating Vortex Pair\nomeqref {0.0}
+		\nompageref{10}
+  \item [{DBC}]\begingroup Dirichlet Boundary Conditions\nomeqref {0.0}
+		\nompageref{10}
+  \item [{DJICF}]\begingroup Drop Jet in Crossflow\nomeqref {0.0}
+		\nompageref{10}
+  \item [{DOFs}]\begingroup Degrees of Freedom\nomeqref {0.0}
+		\nompageref{10}
+  \item [{FFR}]\begingroup Fixed Frame Reference\nomeqref {0.0}
+		\nompageref{10}
+  \item [{FFT}]\begingroup Fast Fourier Transform\nomeqref {0.0}
+		\nompageref{10}
+  \item [{LS}]\begingroup Level-Set\nomeqref {0.0}\nompageref{10}
+  \item [{PBC}]\begingroup Periodic Boundary Conditions\nomeqref {0.0}
+		\nompageref{10}
+  \item [{RT}]\begingroup Rayleigh-Taylor\nomeqref {0.0}\nompageref{10}
+  \item [{VOF}]\begingroup Volume of Fluid\nomeqref {0.0}
+		\nompageref{10}
+
+ \nomgroup{G}
+
+  \item [{$ {\bm \alpha} $}]\begingroup backward displacement vector\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \delta $}]\begingroup $ \delta $ function\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \delta_{\zeta} $}]\begingroup distribution over an interface\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \iota $}]\begingroup cardinality of nodes\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \Omega $}]\begingroup domain\nomeqref {0.0}\nompageref{10}
+  \item [{$ \omega $}]\begingroup frequency\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \phi $}]\begingroup arbitrary scalar quantity\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \Psi $}]\begingroup mass concentration\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \psi $}]\begingroup flatness ratio\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \rho $ }]\begingroup density\nomeqref {0.0}\nompageref{10}
+  \item [{$ \tau $ }]\begingroup time\nomeqref {0.0}\nompageref{10}
+  \item [{$ \upphi $}]\begingroup elongation ratio\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \varpi $}]\begingroup circulation\nomeqref {0.0}
+		\nompageref{10}
+
+ \nomgroup{R}
+
+  \item [{$ A $}]\begingroup area\nomeqref {0.0}\nompageref{10}
+  \item [{$ a $}]\begingroup wave amplitude, or peak\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ B $}]\begingroup body\nomeqref {0.0}\nompageref{10}
+  \item [{$ {\bm F} $ }]\begingroup abstract source vector of fluid variables\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ {\bm X} $ }]\begingroup particle pathline\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ {\bf c} $}]\begingroup relative velocity between the fluid and the mesh\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ F $}]\begingroup face of element\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ f $}]\begingroup frequency\nomeqref {0.0}\nompageref{10}
+  \item [{$ {\bf F} $}]\begingroup tensor, or force\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ g $ }]\begingroup gravity\nomeqref {0.0}\nompageref{10}
+  \item [{$ H $}]\begingroup Heaviside function\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ {\bf h} $}]\begingroup Heaviside function discrete vector\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ p $}]\begingroup hydrostatic pressure\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ u $}]\begingroup arbitrary function\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ w $}]\begingroup arbitrary weight function\nomeqref {0.0}
+		\nompageref{10}
+
+ \nomgroup{S}
+
+  \item [{$ (\cdot)^1 $}]\begingroup dispersed phase\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)^2 $}]\begingroup continuous phase\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)^{\#} $}]\begingroup intermediary, or provisional\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$(\cdot)^r $}]\begingroup integration order\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)^\sigma $}]\begingroup relative to surface tension\nomeqref {0.0}
+		\nompageref{10}
+
+ \nomgroup{U}
+
+  \item [{$ (\cdot)_1 $}]\begingroup arbitrary index, or relative to dispersed phase\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_2 $}]\begingroup arbitrary index, or relative to continuous phase\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_A $}]\begingroup relative to area\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_c $}]\begingroup relative to center of mass, or centroid\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_{corr} $ }]\begingroup correction\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_{crit} $}]\begingroup critical\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_D $}]\begingroup Dirichlet\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_e $}]\begingroup element, or elementary\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_{\#} $}]\begingroup provisional\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_{\lambda} $}]\begingroup relative to jet-to-crossflow velocity ratio\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_{mov} $}]\begingroup moving\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_{NS} $ }]\begingroup relative to Navier-Stokes\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_\partial $}]\begingroup relative to boundary\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_\Psi$}]\begingroup relative to mass concentration\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_{\psi} $}]\begingroup relative to flatness\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_{ref} $ }]\begingroup reference\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_{rel} $}]\begingroup relative\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot)_\rho $}]\begingroup relative to phase\nomeqref {0.0}
+		\nompageref{10}
+
+ \nomgroup{X}
+
+  \item [{$ A_{\mathcal{I}}^{max} $}]\begingroup number of tetrahedra of maximum quality \nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \ast  $}]\begingroup interelement Neumann contributions\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ Ca $}]\begingroup Capillary number\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \cal{H} $}]\begingroup Sobolev space \nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \cal{L} $}]\begingroup Lebesgue space\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \cal{N} $}]\begingroup set of the vectors normal to a body's surface\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \cal{Q} $}]\begingroup space of trial functions for pressure\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \cal{S} $}]\begingroup space of trial functions for velocity\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \cal{X} $}]\begingroup set of the points on a body's surface\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \cdot $ }]\begingroup inner product\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ : $ }]\begingroup tensor inner product\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ dA $}]\begingroup infinitesimal area\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \delta_{\cdot,\cdot} $}]\begingroup Kronecker's delta\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \Delta t $}]\begingroup discrete time step\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \delta t $}]\begingroup infinitesimal time\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \Delta \tau $}]\begingroup continuous time interval\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \dim $ }]\begingroup dimension\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ dl $}]\begingroup infinitesimal line\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \dfrac{D}{D\tau} $}]\begingroup material derivative operator\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \dfrac{D}{Dt} $}]\begingroup material derivative operator\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \doteq $}]\begingroup ``equivalent by input argument to''\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ dV $}]\begingroup infinitesimal volume\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ Eu $}]\begingroup Euler number\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \Im $}]\begingroup imaginary part of a complex number\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ (\cdot,\cdot) $ }]\begingroup inner product, or bilinear form, or ordered pair\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \leadsto $}]\begingroup ``is associated to''\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \mathcal{I}_{(T)} $}]\begingroup radius ratio quality measure of $ T $\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \mathcal{T}_h $}]\begingroup tessellation, or triangulation, or tetrahedralization\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \mathring{\Omega} $}]\begingroup interior of $ \Omega  $\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \mathsf{L} $}]\begingroup differential operator\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \mathsf{P},\mathsf{Q} $}]\begingroup projection operators\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \mathsf{R} $}]\begingroup fixed reference frame\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \nabla $}]\begingroup gradient operator\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ Oh $}]\begingroup Ohnesorge number\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \oplus $}]\begingroup direct sum\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \otimes $}]\begingroup tensor product\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \partial $}]\begingroup partial derivative, or boundary\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ Pe $}]\begingroup P{\'e}clet number\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \mathcal{O}_{\%} $}]\begingroup mesh quality percentage at a fixed time\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ R_1, R_2 $}]\begingroup principal radii of curvatures\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \Re $}]\begingroup real part of a complex number\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ Re $}]\begingroup Reynolds number\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ Sc $}]\begingroup Schmidt number\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \mathcal{T}_h^{\Gamma} $}]\begingroup discrete surface mesh\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \mathcal{T}_h^{\Omega} $}]\begingroup discrete volume mesh\nomeqref {0.0}
+		\nompageref{10}
+  \item [{$ \vee  $}]\begingroup logical XOR (exclusive ``or'')\nomeqref {0.0}
+		\nompageref{10}
+
+\end{thenomenclature}
